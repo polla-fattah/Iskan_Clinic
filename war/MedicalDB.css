@@ -1,0 +1,96 @@
+﻿/** Add css rules here for your application. */
+
+
+/** Main Database Header */
+.header
+{
+	background-image:url('img/header-background.jpg');
+	
+}
+.footer{
+	background-image:url('img/footer-background.jpg');
+
+}
+.footerContent{
+	width:100%;
+	text-align:right;
+}
+.body{
+	background-color:silver;
+}
+.verticalTabBar{
+}
+.verticalTabBody{
+	background-color:#EEEEEE;
+	padding-top:5px;
+}
+.core{
+	border-top:3px gray solid;
+	border-left::3px gray solid;
+	padding:3px 3px 3px 3px;
+	background-color:#D7D7D7;
+}
+
+.AddProject{
+	cursor:pointer;
+	font-size:13px;
+	text-decoration:none;
+	color:black;
+}
+.TableHeader{
+	text-align:center;
+	background-color:#999966;
+	font-weight:bold;
+	height:20px;
+}
+.TableData{
+	text-align:center;
+	height:20px;
+	border-width:1px;
+	border-style:solid;
+}
+
+.caption{
+	color:#000099;
+	font-size:small;
+}
+
+.evenRow{
+	background-color:#C0C0C0;
+	height:0px;
+	border-width:0px 0px 0px 0px;
+}
+.oddRow{
+	background-color:#F0F0F0;
+	height:0px;
+	border-width:0px 0px 0px 0px;
+}
+.rowData{
+	border:1px gray solid;
+}
+.feildName{
+	border:1px gray solid;	
+	
+}
+.addData{
+	
+	
+}
+.DBForm{
+	
+	border:1px gray ridge;
+}
+.WriteEntry{
+	color:black;
+}
+.WrongEntry{
+	color:red;
+}
+.deleteButton{
+	padding:0px 0px 0px 0px;
+	font-size:12px;
+}
+
+.handMouse{
+cursor:pointer;
+}
